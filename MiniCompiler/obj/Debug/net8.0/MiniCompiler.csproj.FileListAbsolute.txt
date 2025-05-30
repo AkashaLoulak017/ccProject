@@ -1,0 +1,14 @@
+C:\Users\PMLS\source\repos\MiniCompiler\bin\Debug\net8.0\MiniCompiler.exe
+C:\Users\PMLS\source\repos\MiniCompiler\bin\Debug\net8.0\MiniCompiler.deps.json
+C:\Users\PMLS\source\repos\MiniCompiler\bin\Debug\net8.0\MiniCompiler.runtimeconfig.json
+C:\Users\PMLS\source\repos\MiniCompiler\bin\Debug\net8.0\MiniCompiler.dll
+C:\Users\PMLS\source\repos\MiniCompiler\bin\Debug\net8.0\MiniCompiler.pdb
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\MiniCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\MiniCompiler.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\MiniCompiler.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\MiniCompiler.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\MiniCompiler.dll
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\refint\MiniCompiler.dll
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\MiniCompiler.pdb
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\MiniCompiler.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\MiniCompiler\obj\Debug\net8.0\ref\MiniCompiler.dll
